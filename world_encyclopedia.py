@@ -1,5 +1,4 @@
-# World_Encyclopedia.py
-# ENDG 233 Final Project
+# World Encyclopedia
 
 import numpy as np
 import matplotlib.pyplot as plt
